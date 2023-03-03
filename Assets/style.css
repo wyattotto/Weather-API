@@ -1,0 +1,86 @@
+:root{
+    --borderColor: #B0C4DE;
+    --bgColor: #F0FFFF;
+    --blue: #00bfff;
+    --lightB: #ADD8E6; 
+}
+
+body{
+    background-color: var(--bgColor);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.flex1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Main-Text-topPage {
+    
+     color: black;
+    background-color: var(--blue);
+    background-position: center;
+    height: 100px;
+    
+}
+.ptxt {
+    margin-left: 10px;
+}
+
+.flex-R {
+    display: grid;
+    justify-content: space-between;
+}
+
+
+.header {
+    color: black;
+    background-color: var(--blue);
+    padding: 8%;
+    text-align: center;
+    
+}
+.lable, .city-input {
+    display: block;
+    
+    }
+
+.btn {
+    display: inline-block;
+    margin-left: 38%;
+    margin-top: 6px;
+    margin-bottom:6PX ;
+    align-items: center;
+}
+
+.card {
+    margin:20px ;
+    width: 125%;
+    
+}
+
+.city-input {
+    margin-left: 18%;
+} 
+
+
+
+.div2 {
+    align-items: center;
+    border-radius: 2px solid ;
+}
+
+.Min-VW {
+    min-width: 100vh;
+}
+
+/* .Min-VH{
+    min-height: 100vh;  
+} */
+.ms-3 {
+    margin-left: ($spacer * .4) !important;
+}
