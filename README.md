@@ -1,7 +1,7 @@
 # Weather-API
 ## Description  
 - In this Project I used JavaScript to make a functional weather website.
-- A key java elements was Dayjs and 3rd party API.
+- Some Key elements used were java Dayjs and 3rd party API.
  
 
 ## Usage 
