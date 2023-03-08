@@ -20,4 +20,4 @@
 ## Deployed Link
 - https://wyattotto.github.io/Weather-API/
 
-![alt text](Assets\screenshot.png)
+![Weather App](./Assets/screenshot.png)
