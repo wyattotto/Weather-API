@@ -1,23 +1,23 @@
 # Weather-API
 ## Description  
 - In this Project I used JavaScript to make a functional weather website.
-- A key java elements was Dayjs 
-- While also saving elements to our local storage so when the page was refreshed the text stayed.
+- A key java elements was Dayjs and 3rd party API.
+ 
 
 ## Usage 
-- Used in a busy work Environment to plan out your work day
+- Used to look up weather and forecast in your area.
 
 ## Resource Links
-- https://day.js.org/docs/en/display/format
-- https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem
-- https://api.jquery.com/category/attributes/
+- https://bulma.io/documentation/helpers/spacing-helpers/
+- https://bulma.io/documentation/elements/block/
+- https://openweathermap.org/
 
 ## Languages 
 - HTML
 - JavaScript 
-- CSS
+- Bulma
 
 ## Deployed Link
-- https://wyattotto.github.io/Day-Planner/
+- https://wyattotto.github.io/Weather-API/
 
-![Alt text](.assets\photos\Capture.PNG)
+![alt text](Assets\screenshot.png)
